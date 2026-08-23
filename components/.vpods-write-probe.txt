@@ -1,1 +1,0 @@
-vpods write probe
