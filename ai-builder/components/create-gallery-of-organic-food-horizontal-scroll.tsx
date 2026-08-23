@@ -1,1 +1,1 @@
-export default function Gallery(){return null}
+export const x=2
